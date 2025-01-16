@@ -57,7 +57,7 @@ We welcome contributions! Please read our contributing guidelines before submitt
 ## Support
 
 For support and questions:
-- Visit [Contact Us](hrithikrana216@gmail.com)
+- Visit [Contact Us]("hrithikrana216@gmail.com")
 
 ## License
 
