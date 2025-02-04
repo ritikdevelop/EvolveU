@@ -10,18 +10,7 @@
       "ios": {
         "resourceClass": "m-medium",
         "simulator": true
-      },
-      "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.ritikkumar_23.EvolveU"
-    },"web": {
-      "bundler": "metro",
-      "output": "static",
-      "favicon": "./assets/images/favicon.png"
-    }
+      }
     },
     "preview": {
       "distribution": "internal"
